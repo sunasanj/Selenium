@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [mmtSuite]">
+  <test name="mmtTest(failed)">
+    <classes>
+      <class name="org.mmt.tes.Flight_Test">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- org.mmt.tes.Flight_Test -->
+    </classes>
+  </test> <!-- mmtTest(failed) -->
+</suite> <!-- Failed suite [mmtSuite] -->

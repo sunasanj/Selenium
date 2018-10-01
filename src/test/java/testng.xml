@@ -1,0 +1,7 @@
+<suite name="mmtSuite">
+<test name="mmtTest">
+<classes>
+<class name="org.mmt.tes.Flight_Test"></class>
+</classes>
+</test>
+</suite>
